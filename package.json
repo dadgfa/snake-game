@@ -1,0 +1,1 @@
+{\n  "name": "snake-game",\n  "version": "1.0.0",\n  "description": "A simple snake game implemented in vanilla JavaScript.",\n  "main": "index.js",\n  "scripts": {\n    "start": "live-server",\n    "test": "echo 'No tests specified' && exit 0"\n  },\n  "author": "dadgfa",\n  "license": "MIT"\n}
